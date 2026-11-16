@@ -1,0 +1,34 @@
+Some require your own game files.
+Call of Duty / Zombies
+BO1 Zombies: https://vel.gg/bo1z
+Moon: https://moon-zombies.pages.dev
+Kino der Toten: https://kino-der-toten.pages.dev
+BO3 Cheese Cube: https://cheese-cube.pages.dev
+Black Ops 2: https://vibeslops.luckeysystems.com/
+Modern Warfare 2: https://ovz-game-production.up.railway.app/
+Skateboarding
+Skate 3: https://skate.aaddpp.lol/
+Skate Rust: https://global-terror.net/
+Halo / Counter-Strike
+CS Surf: https://surfd.net/
+Halo CE: https://mitchellhynes.com/halo/halo.html
+Halo CE Mobile: https://hcemobile.com/
+GTA / Open World
+GTA 5: https://playgta5.com/
+GTA Vice City: https://joncodeofficial.github.io/gta-vice-city-wasm/
+The Simpsons Hit & Run: https://shar-wasm.cjoseph.workers.dev/?skipmovie
+Classic Shooters
+Quake 1: https://q1.pieter.com/
+Quake 2: https://q2.pieter.com/
+Quake 3: https://q3.pieter.com/
+Return to Castle Wolfenstein: https://rtcw.pieter.com/
+Unreal Tournament / Urban Terror: https://ut.pieter.com/
+Half-Life: https://pixelsuft.github.io/hl/
+Half-Life / Counter-Strike 1.6: https://x8bitrain.github.io/webXash/
+Other Games
+PES 6: https://pes6.optijuegos.net/
+Diablo: https://johnimril.github.io/diablo_web/
+Hedgewars: https://webwars.link/
+More GTA / Minecraft browser ports: https://wasmarcade.com/pc-games
+Note: These are unofficial browser ports or fan projects. Some may be unavailable, require original game files, or behave differently from the full games. Avoid downloading unknown launchers.
+Original X post: https://x.com/RadiantOpti/status/2108068632991256995
